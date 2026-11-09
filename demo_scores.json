@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "source": "Purpose-built synthetic 1–5 capability assessment matrix for the four fictional supplier scenarios",
+    "scale": "1=not demonstrated; 2=emerging; 3=developing; 4=established; 5=leading; null=no assessment evidence",
+    "benchmark_reference": 3.1,
+    "warning": "No entries in this dataset are verified supplier measurements. A 3.1 benchmark signal is not an award or intervention GO decision. Questionnaire Q7–Q61 responses are a separate scoring instrument and have NOT been mathematically mapped to these 16 criteria."
+  },
+  "assessments": {
+    "DEMO-EX-001": {
+      "A1": 3.7,
+      "A2": 2.2,
+      "A3": 2.4,
+      "A4": 3.5,
+      "A5": 3.4,
+      "B1": 3.3,
+      "B2": 3.6,
+      "B3": 3.4,
+      "B4": 2.1,
+      "B5": 2.8,
+      "B6": 3.5,
+      "B7": 3.4,
+      "C1": 3.3,
+      "C2": 3.2,
+      "C3": 3.7,
+      "C4": null
+    },
+    "DEMO-NEW-002": {
+      "A1": 3.3,
+      "A2": 1.7,
+      "A3": 2.0,
+      "A4": 3.1,
+      "A5": 2.1,
+      "B1": null,
+      "B2": null,
+      "B3": null,
+      "B4": null,
+      "B5": null,
+      "B6": null,
+      "B7": null,
+      "C1": 3.0,
+      "C2": 2.7,
+      "C3": 2.8,
+      "C4": 1.9
+    },
+    "DEMO-EX-003": {
+      "A1": 3.4,
+      "A2": 3.6,
+      "A3": 3.2,
+      "A4": null,
+      "A5": 3.1,
+      "B1": 3.0,
+      "B2": 1.8,
+      "B3": 2.1,
+      "B4": 2.9,
+      "B5": 2.6,
+      "B6": 3.1,
+      "B7": 2.4,
+      "C1": 3.4,
+      "C2": 3.0,
+      "C3": 3.6,
+      "C4": 3.2
+    },
+    "DEMO-EX-004": {
+      "A1": 3.4,
+      "A2": null,
+      "A3": null,
+      "A4": 3.0,
+      "A5": 3.3,
+      "B1": null,
+      "B2": null,
+      "B3": null,
+      "B4": null,
+      "B5": null,
+      "B6": null,
+      "B7": null,
+      "C1": 1.9,
+      "C2": 2.1,
+      "C3": 2.4,
+      "C4": 2.3
+    }
+  }
+}

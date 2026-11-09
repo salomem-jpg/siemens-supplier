@@ -1,0 +1,29 @@
+SUPPLIER ATLAS — UPDATE EXISTING GITHUB REPOSITORY
+
+Your existing GitHub repository already has questionnaire, benchmark research,
+interventions, criteria, 4 fictional cases and Snowflake mock JSON files.
+
+Upload these FIVE files from this folder to the REPOSITORY ROOT:
+  app.py
+  engine.py
+  workspace.py
+  demo_scores.json
+  requirements.txt
+
+Do NOT upload the ZIP itself.
+Do NOT delete your existing cases_seed.json, interventions.json, criteria.csv,
+official_questionnaire.json, benchmark_research.json or snowflake_mock.json.
+
+Then enforce light mode by creating a NEW file on GitHub at the exact path:
+  .streamlit/config.toml
+Copy the content from the hidden .streamlit/config.toml included here.
+This is important to avoid Streamlit's built-in dark theme overriding controls.
+
+Save/Commit changes, then reopen your existing Streamlit URL. If necessary,
+choose Manage app > Reboot app.
+
+If the ZIP is unzipped on a Mac and .streamlit is hidden, Finder's
+Command + Shift + . will toggle display of hidden files.
+
+CAUTION: Verify that the already-uploaded project research and official
+questionnaire are approved for the chosen GitHub/Streamlit hosting environment.
